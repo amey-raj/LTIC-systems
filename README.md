@@ -1,7 +1,7 @@
 # LTIC-systems
 
 
-This program is to obtain the impulse response and output for a given Linear Time Invariant Continuous system for a given input and then plot them on a graph.
+This program is to obtain the system response and output for a given Linear Time Invariant Continuous system for a given input and then plot them on a graph.
 
 
 
